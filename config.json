@@ -1,0 +1,9 @@
+{
+    "EMAIL_USER": "test@gmail.com",
+    "EMAIL_PASS": "123",
+    "RECIPIENT_EMAIL": [
+        "test@gmail.com"
+    ],
+    "EMAIL_SUBJECT": "test",
+    "EMAIL_BODY": "test"
+}
